@@ -6,6 +6,13 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
+            "projectName": "FloodFill_f76c8e00"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
             "projectName": "FloodFill_f192c764"
         },
         {
